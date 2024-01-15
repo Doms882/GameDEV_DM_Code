@@ -2,4 +2,9 @@ Game Dev Finals Project
 
 Controller
 ctrl = shoot
-wasd/arrow keys = move charachter
+wasd/arrow keys = move character
+
+
+Demo Video:
+
+https://globalcitysti-my.sharepoint.com/:v:/g/personal/clutario_230737_globalcity_sti_edu_ph/Ee9Tj_3HkYZBqDh1lRWQTd0B54hpbo25O7Q3WK4wWEfEnA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pNCN4u
